@@ -20,4 +20,4 @@ I will create more demo journeys over the week and fix the critical bugs.
 
 The source code in its current state is very disorganized. I hope to restructure them into a Model-View-ViewModel (MVVM) pattern in the near future.
 
-Please find the releases in the 'Releases' page on the right.
+Please find the APKs [here](https://github.com/beanut/priority-education-release/releases/tag/priority-education-prerelease0).

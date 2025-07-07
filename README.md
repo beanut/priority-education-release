@@ -19,3 +19,5 @@ I am aware of the bugs below, and I am trying to fix them as soon as possible:
 I will create more demo journeys over the week and fix the critical bugs.
 
 The source code in its current state is very disorganized. I hope to restructure them into a Model-View-ViewModel (MVVM) pattern in the near future.
+
+Please find the releases in the 'Releases' page on the right.

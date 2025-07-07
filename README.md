@@ -1,5 +1,9 @@
 A repo containing all the releases of Priority Education.
-Initial pre-release. Build 0. VERY BUGGY!
+Initial pre-release. Build 0. VERY BUGGY! 
+THE FOLLOWING FEATURES ARE CURRENTLY DISABLED AS THEY CAUSE THE APP TO CRASH SOMETIMES:
+- CourseDetailScreen
+- InternalTestsScreen
+- UniversityApplicationScreen (for now pressing the Apply button directly pushes the Applied to University CleverTap event)
 
 We're still waiting for a response from CleverTap's team on the possibility of using the "Session Concluded" system event for live behavior tracking. As of now, it seems like the "Session Concluded" system event doesn't gets pushed until the next time the app launches. This renders the live tracking unusable with this event.
 

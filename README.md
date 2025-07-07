@@ -1,4 +1,3 @@
-![banner_trang_fare_1920x450_KV_sale_7_7_EN_8500a93cd8](https://github.com/user-attachments/assets/ca023b31-819f-4fef-8602-10a32e1efa9f)# priority-education-release
 A repo containing all the releases of Priority Education.
 Initial pre-release. Build 0.
 

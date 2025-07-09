@@ -1,5 +1,7 @@
 A repo containing all the releases of Priority Education.
+
 Jul 9, 2025: Version 0 Beta 1 has been released. View the changelogs in the [releases page](https://github.com/beanut/priority-education-release/releases).
+
 THE FOLLOWING FEATURES ARE CURRENTLY DISABLED AS THEY CAUSE THE APP TO CRASH SOMETIMES:
 - UniversityApplicationScreen (for now pressing the Apply button directly pushes the Applied to University CleverTap event)
 - CourseApplicationScreen

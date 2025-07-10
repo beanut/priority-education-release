@@ -1,5 +1,7 @@
 A repo containing all the releases of Priority Education.
 
+Jul 10, 2025: Version 0 Beta 2 has been released. View the changelogs in the [releases page](https://github.com/beanut/priority-education-release/releases).
+
 Jul 9, 2025: Version 0 Beta 1 has been released. View the changelogs in the [releases page](https://github.com/beanut/priority-education-release/releases).
 
 Jul 7, 2025: Initial prerelease Version 0 Beta 0.
